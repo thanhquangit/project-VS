@@ -1,0 +1,9 @@
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\bin\Debug\Baia1.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\bin\Debug\Baia1.exe
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\bin\Debug\Baia1.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\obj\Debug\Baia1.csprojResolveAssemblyReference.cache
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\obj\Debug\Baia1.Form1.resources
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\obj\Debug\Baia1.Properties.Resources.resources
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\obj\Debug\Baia1.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\obj\Debug\Baia1.exe
+c:\users\thanh\documents\visual studio 2015\Projects\Baia1\Baia1\obj\Debug\Baia1.pdb
